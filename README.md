@@ -14,7 +14,7 @@ I'm Aaron Quarshie, a student at Brigham Young University-Idaho interested in We
 ## Technologies and Tools
 
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/dot-net-original-wordmark.svg" title="dot-net" alt="dot-net" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/dot-net-original-a.svg" title="dot-net" alt="dot-net" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -25,10 +25,10 @@ I'm Aaron Quarshie, a student at Brigham Young University-Idaho interested in We
 
 ## Projects
 
-- Here is a simple game I created with JavaScript https://tettehq.github.io/wdd330/final_project/ . You can check out the project repository here: https://github.com/tettehq/wdd330/tree/main/final_project
+- Here is a simple game I created with JavaScript https://tettehq.github.io/wdd330/final_project/. You can check out the project repository here: https://github.com/tettehq/wdd330/tree/main/final_project
 
 ## Let's Connect!
 
-- [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]() Here is my [LinkedIn]https://www.linkedin.com/in/aaronquarshie2417/ profile
+- [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 Feel free to explore my repositories, and don't hesitate to reach out. Happy coding! 🚀
